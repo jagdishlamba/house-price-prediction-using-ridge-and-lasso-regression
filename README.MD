@@ -10,7 +10,7 @@ The company wants to know:
 -How well those variables describe the price of a house.
 
 ## Table of Contents
-* [Business Goal](#Business Goal)
+* [Business Goal](#Business-Goal)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
